@@ -8,6 +8,6 @@ class Solution {
             return a[i];
         }
         return 0;
-        cout<<"blah blah";
+
     }
 };
